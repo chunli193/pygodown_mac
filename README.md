@@ -1,7 +1,8 @@
 # PyGoDown
-
 > 基于 Python + 极速解析的一站式视频下载工具
 
+![Version](https://img.shields.io/badge/版本-v1.0.1-blue)
+[![Platform macOS](https://img.shields.io/badge/平台-macOS-0099FF?logo=apple&logoColor=white)](https://192.168.4.115:3200/用户名/ffmpeg-installer/releases)
 
 ---
 
@@ -12,15 +13,15 @@
 ---
 
 ## 🔹 核心下载功能
-### 1. 下载模式
+### 下载模式
 - 支持**单个视频**精准下载
 - 支持**视频合集 / 播放列表**批量下载
 
-### 2. 画质选择
-- 自由选择分辨率：360p-1080P / 2K （依视频源支持）
+### 画质选择
+- 自由选择分辨率：360p-1080P / 2K（依视频源支持）
 - 可自动匹配最高可用画质
 
-### 3. 格式支持
+### 格式支持
 - 视频格式：MP4、MKV、WebM 等主流格式
 - 音频格式：MP3、M4A、FLAC（纯音频提取）
 - 自动完成音视频合并
@@ -37,4 +38,5 @@
 
 ## 📖 项目定位
 **PyGoDown = Python + Go Fast + Download**
+
 做一款**稳定开箱即用**视频下载工具。
