@@ -1,0 +1,41 @@
+# Python 缓存/编译文件
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyw
+
+# 视频/大文件（重点！解决 Git 卡顿）
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.flv
+*.wmv
+*.zip
+*.rar
+*.7z
+*.exe
+# 日志/临时文件
+*.log
+*.tmp
+*.temp
+
+# 系统垃圾文件
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# VS Code 配置
+.vscode/
+.idea/
+.vnv/
+
+
+#临时数据
+
+.build/
+.dist/
+
+# 批处理临时文件
+# *.cmd~
