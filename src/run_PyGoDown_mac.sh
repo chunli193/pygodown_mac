@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# VidGrabber 启动脚本 (macOS)
+# PyGoDown 启动脚本 (macOS)
 
 SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
 PYTHON_SCRIPT="$SCRIPT_DIR/pygodown_v1.0.0_mac.py"
