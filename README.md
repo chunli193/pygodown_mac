@@ -43,6 +43,10 @@
 
 
 
+>安装方法 拖入 **Applications** 即可
+遇到打开闪退 根据需求 执行 下面命令
+
+```
 # 移除隔离属性
 sudo xattr -r -d com.apple.quarantine /Applications/pygodown_v1.0.1_mac.app
 
@@ -51,3 +55,4 @@ sudo spctl --master-disable
 
 # 恢复安全设置
 sudo spctl --master-enable
+```
