@@ -1,3 +1,0 @@
-([('video_downloader_mac',
-   '/Users/ccl/Documents/opencode/video_downloader/dist/video_downloader_mac',
-   'EXECUTABLE')],)
