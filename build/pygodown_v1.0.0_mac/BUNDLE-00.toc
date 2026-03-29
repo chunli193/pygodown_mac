@@ -1,3 +1,0 @@
-([('pygodown_v1.0.0_mac',
-   '/Users/ccl/Documents/opencode/pygodown/dist/pygodown_v1.0.0_mac',
-   'EXECUTABLE')],)
