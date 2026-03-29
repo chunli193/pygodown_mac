@@ -6,7 +6,7 @@ SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
 PYTHON_SCRIPT="$SCRIPT_DIR/pygodown_v1.0.0_mac.py"
 
 echo "========================================"
-echo "VidGrabber - 视频下载器 (macOS)"
+echo "PyGoDown - 视频下载器 (macOS)"
 echo "========================================"
 
 # 检查Python3
