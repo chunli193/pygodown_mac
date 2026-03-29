@@ -3,7 +3,7 @@
 # VidGrabber 启动脚本 (macOS)
 
 SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
-PYTHON_SCRIPT="$SCRIPT_DIR/video_downloader_mac.py"
+PYTHON_SCRIPT="$SCRIPT_DIR/pygodown_v1.0.0_mac.py"
 
 echo "========================================"
 echo "VidGrabber - 视频下载器 (macOS)"
