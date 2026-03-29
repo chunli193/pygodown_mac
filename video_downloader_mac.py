@@ -222,7 +222,7 @@ class VideoDownloader(QMainWindow):
     
     def init_ui(self):
         """初始化UI界面"""
-        self.setWindowTitle("VidGrabber - 视频下载器")
+        self.setWindowTitle("PyGoDown - 视频下载器")
         self.setGeometry(100, 100, 600, 400)
         
         central_widget = QWidget()
@@ -232,7 +232,7 @@ class VideoDownloader(QMainWindow):
         main_layout.setSpacing(10)
         main_layout.setContentsMargins(15, 15, 15, 15)
         
-        title_label = QLabel("视频下载工具 (macOS)")
+        title_label = QLabel("PyGoDown (macOS)")
         title_font = QFont()
         title_font.setPointSize(16)
         title_font.setBold(True)
